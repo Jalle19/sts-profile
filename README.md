@@ -25,6 +25,8 @@ aws_secret_access_key = b14DA7BULTRA_SECRETrk3zxYeQtbrh
 aws_session_token = FQoDYULTRA_SECRET
 ```
 
+Now you just need to copy-paste this into your AWS profile of choice
+
 ## Installation
 
 Download the latest release for your platform from the releases page here on GitHub. Unzip the package, place the 
